@@ -25,8 +25,8 @@ http://en.m.wikipedia.org/wiki/Outlier http://en.m.wikipedia.org/wiki/Data_analy
 http://www.cimt.plymouth.ac.uk/projects/mepres/alevel/stats_ch12.pdf
 http://ww2.coastal.edu/kingw/statistics/R-tutorials/multregr.html
 http://www.datamine.com/site/datamine/files/White%20Papers/predictive_modelling_process_whitepaper.pdf
-http://www.springer.com/cda/content/document/cda_downloaddocument/9781461468486-c1.pdf?SGWID=0-0-45-1394904-p174922568
-http://www.peakdatasolutions.com/Case_ElevenSteps.htm 
+http://www.springer.com/cda/content/document/cda_downloaddocument/9781461468486-c1.pdf?SGWID=0-0-45-1394904-p17492256
+http://www.peakdatasolutions.com/Case_ElevenSteps.htm
 http://static1.squarespace.com/static/51156277e4b0b8b2ffe11c00/t/53ad86e5e4b0b52e4e71cfab/1403881189332/Applied_Predictive_Modeling_in_R.pdf
 http://www.theanalysisfactor.com/13-steps-regression-anova/
 
