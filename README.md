@@ -94,3 +94,6 @@ http://www.molgen.mpg.de/3434967/MaxKuhn.pdf
 
 # Regression analysis with example
 http://www.ats.ucla.edu/stat/stata/examples/chp/
+
+#P-value
+P-value i.e probability of whether my assumption is 95% correct or not. 95% is the threshold or level of significance. It can be 99%.
