@@ -86,3 +86,11 @@ http://data.princeton.edu/wws509/notes/c3.pdf
 
 #Books on data and data science
 http://www.kdnuggets.com/2015/09/free-data-science-books.html
+
+#Applied predective modeling in R
+https://www.r-project.org/nosvn/conferences/useR-2013/Tutorials/kuhn/user_caret_2up.pdf
+
+http://www.molgen.mpg.de/3434967/MaxKuhn.pdf
+
+# Regression analysis with example
+http://www.ats.ucla.edu/stat/stata/examples/chp/
