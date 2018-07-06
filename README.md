@@ -1,3 +1,31 @@
+#What is Machine Learning (quick understandig)
+https://github.com/justmarkham/DAT8/blob/master/slides/06_machine_learning.pdf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #Types of Data:
 http://learntech.uwe.ac.uk/da/Default.aspx?pageid=1425
 
